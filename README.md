@@ -39,42 +39,61 @@ The goal is to analyze business performance and identify high and low profit are
 (i) Heat Map — Product Type, State, and Profit
 Created to visualize profit distribution across different states and product types.
 Identified states with lowest profit for each product category.
+
 (ii) Box Plot — Espresso Sales Distribution
 Visualized sales spread for Espresso products to identify variability.
+
 (iii) Bar Chart — Product Type, Product, and Profit
 Compared profit contributions by product and category.
+
 (iv) Scatter Plot — State, Sales, and Profit
 Displayed relationship between sales and profit to find states with high sales but low profit.
+
 (v) Identify Highest & Lowest Profit State
 Ranked all states to highlight top-performing and underperforming ones.
+
 (vi) Sales in Nevada for Decaf Espresso
 Filtered for State = Nevada and Product = Decaf Espresso to view total sales.
+
 (vii) Contribution of Tea to Overall Profit (%)
 Calculated the percentage contribution of Tea products to total profit.
+
 (viii) Average Marketing in Area Codes 660 and 818
 Compared average marketing spend in selected area codes.
+
 (ix) Highest & Lowest Profit Product in California
 Analyzed profit performance for products within California.
+
 (x) Side-by-Side Circles — Minimum Marketing for Coffee Beans (Colombian)
 Visualized marketing levels for Colombian Coffee Beans across markets.
+
 (xi) Contribution of Sales in East Market for Decaf
 Computed % share of Decaf sales in the East Market.
+
 (xii) Contribution of Decaf Sales in East Market (2012)
 Filtered for Year = 2012 to identify yearly performance.
+
 (xiii) Average Profit for Products Starting with “C”
 Filtered products starting with “C” and calculated their average profit.
+
 (xiv) Central Region — Top 5 Products by Sales
 Identified and compared Top 5 selling products in the Central region.
+
 (xv) 2013 — Highest Profit State in West Market
 Filtered for Year = 2013 and Market = West to find the most profitable state.
+
 (xvi) Total Expenses-to-Sales Ratio of State with Lowest Profit
 Created a calculated field to evaluate cost efficiency of low-performing states.
+
 (xvii) Distinct Count of Area Codes — Lowest Budget Margin, Small Markets
 Identified number of distinct area codes for small markets with the lowest margins.
+
 (xviii) 2013 — % of Profit for Caffe Mocha (Major Market)
 Filtered Year = 2013, Product = Caffe Mocha, Market = Major to compute contribution.
+
 (xix) Month-Year when Decaf Sales Crossed $1,100 (Colorado & Florida)
 Identified month-year combinations where Decaf sales exceeded $1,100 in Colorado & Florida.
+
 (xx) Tree Map — Market by Budget Sales
 Created a tree map to identify the market with maximum budget sales.
 
